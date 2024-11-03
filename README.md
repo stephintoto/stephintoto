@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Computer Science Engineering graduate with a strong technical foundation.<br>📊 Enthusiastic about data science, eager to explore and harness the power of data for insightful solutions.<br>🌐 web developer, creating dynamic and responsive web applications.<br>🚀 A natural leader who thrives in team environments and inspires collaborative success.<br>🤓 Committed to lifelong learning and continuously expanding my knowledge in the tech field.
+👨‍💻 Computer Science Engineering graduate with a good technical foundation.<br>📊 Enthusiastic about data science, eager to explore and harness the power of data for insightful solutions.<br>🌐 web developer, creating dynamic and responsive web applications.<br>🚀 A natural leader who thrives in team environments and inspires collaborative success.<br>🤓 Committed to lifelong learning and continuously expanding my knowledge in the tech field.
 
 
 # 💻 Tech Stack:
